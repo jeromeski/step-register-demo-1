@@ -1,0 +1,9 @@
+.App {
+  height: 100vh;
+}
+
+
+.ant-form-item-control {
+  flex-basis: 100% !important;
+  margin-bottom: -5px;
+}
